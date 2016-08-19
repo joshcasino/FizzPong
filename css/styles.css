@@ -1,0 +1,40 @@
+header {
+  text-align: center;
+  font-size: 36pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 50px;
+  background-color: #ffe6b3;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+#pongInput {
+  min-width: 150px;
+  max-width: 160px;
+}
+
+.container {
+  border: solid 4px;
+  background-color: #e6e6e6;;
+  max-width: 1000px;
+}
+
+#about {
+  margin-top: 20px;
+  background-color: #90bb90;
+  height: 500px;
+  font-weight: bold;
+}
+
+#formRow {
+  background-color: #e6e6e6;
+  height: 500px;
+}
+
+#rightEmpty {
+  background-color: #e6e6e6;
+  width: 150px;
+  height: 500px;
+}
