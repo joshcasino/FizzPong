@@ -24,17 +24,17 @@ header {
 #about {
   margin-top: 20px;
   background-color: #90bb90;
-  height: 500px;
+  height: auto;
   font-weight: bold;
 }
 
 #formRow {
   background-color: #e6e6e6;
-  height: 500px;
+  /*height: 500px;*/
 }
 
 #rightEmpty {
   background-color: #e6e6e6;
   width: 150px;
-  height: 500px;
+  height: auto;
 }
