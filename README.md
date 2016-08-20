@@ -7,14 +7,9 @@
 ## Description
 A simple page using the same principles as Fizzbuzz test.
 
-### Specifications for Leap Year
+### Specifications for Ping Pong
 
 The user enters a number and will see all numbers printed up to the inputted number, except numbers divisible by 3 will print PING, numbers divisible by 5 will print PONG, and numbers divisible by 15 will print PING-PONG.
-
-#### Behavior / Input / Output
-
-
-### Specifications for Pig Latin
 
 * It will count up to specified number:
   Input 3, output will be [1, 2, 3, 4]
@@ -28,13 +23,8 @@ The user enters a number and will see all numbers printed up to the inputted num
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+Set up a simple input field, and a <ul> to output your values to.
+see scripts.js file for one possible solution to ping pong.
 
 ## Known Bugs
 
